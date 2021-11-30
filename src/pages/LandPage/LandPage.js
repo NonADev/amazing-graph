@@ -21,7 +21,7 @@ function LandPage() {
             <div className="escopo-flex-principal">
                 <h1 className="secondary-color titulo-principal">Create amazing graphics</h1>
                 <p className="secondary-color texto-secundario">Colaborate and create beautiful graphics with your team</p>
-                <button className="button button-primary">Start now</button>
+                <button className="button button-primary mt-2rem" onClick={()=>console.log('as')}>Start now</button>
             </div>
         </>
     )

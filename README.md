@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+<br />
+<p align="center">
+  <a href="http://www.freepik.com">
+    <img src="https://trello-attachments.s3.amazonaws.com/590fa896d2d25e50583de620/874x512/2bc76fc9373587c9d5ca571d19530719/4435_1.png" alt="Logo" width="250" height="150">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">Amazing Graph</h3>
 
-## Available Scripts
+  <p align="center">
+    Landing page to create amazing graphics
+       <br />
+    <br />
+    <a href="https://github.com/Lorenalgm/AmazingGraph">Challenge</a>
+    ·
+    <a href="https://www.linkedin.com/in/lorenagmontes/">Contact</a>
+  </p>
+</p>
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Welcome :)
+<a href="https://devchallenge.now.sh/"> DevChallenge</a> allow you to improve your skills!
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Challenge
+Your challenge is to build a landing page about a website that create graphics.<br><br>
+Seu desafio é criar uma página sobre um site de criação de gráficos.
 
-### `npm test`
+<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/cb82a7069f698bde3bafb4ea20316951/mockuper_(1)_(1).png" width="380" height="380">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Techs: 
+HTML<br>
+CSS
 
-### `npm run build`
+# Getting start:
+1 - Use this template or download this repository with the starter code<br>
+2 - Read the instructions in readme.md<br>
+3 - Start coding!<br>
+4 - Share your results with the community :)<br>
+<br>
+1 - Use esse template ou baixe esse repositório com o código inicial<br>
+2 - Leia as instruções no readme.md<br>
+3 - Comece a codar!<br>
+4 - Compartilhe seu resultado com a comunidade :)<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Requirements:
+- Your page should get it looking as close to the design as possible<br>
+- Your page should be responsive<br>
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Sua página deve se parecer o mais próximo possível do design<br>
+- Sua página deve ser responsiva<br>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/255f1d04baf02f7e818c6e4ec36ddddf/desktop.png" width="380" height="380">
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Feel free to use any workflow you are comfortable with :)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Colors:
+Orange: #D2872C<br>
+Gray: #766F68
 
-## Learn More
+# Design:
+Design available in `./design` path<br>
+Images available in `./assets` path<br>
+<br>
+Modelo disponível na pasta `./design`<br>
+Imagens disponíveis na pasta `./assets`<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Font family:
+- Roboto
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Share!
+Initialize your project with this template in your github as a public repository<br>
+Capture a screenshot, gif or video and share your result in Linkedin<br>
+Send me a feedback in  <a href="https://www.linkedin.com/in/lorenagmontes/">Linkedin</a>!<br>
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Designed and created by  <a href="https://github.com/Lorenalgm">Lorena</a> :)

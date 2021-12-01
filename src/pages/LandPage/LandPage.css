@@ -21,18 +21,8 @@
     color: #766F68;
 }
 
-.imagem-reuniao {
-    width: 80%;
-    margin-top: 20px;
-}
-
 .escopo-flex {
     display: flex;
-}
-
-.lista-menu {
-    justify-content: center;
-    align-items: center;
 }
 
 .lista-menu li {
@@ -56,17 +46,22 @@
 }
 
 @media (max-width: 959px) {
-    .flex-center {
-        justify-content: center;
-        align-items: center;
-    }
-    
     .flex-navbar {
         justify-content: space-between;
         align-items: center;
         padding: 35px 20px;
     }
-    
+
+    .flex-imagem {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .imagem-reuniao {
+        width: 80%;
+        margin-top: 20px;
+    }
+
     .titulo-pagina {
         font-size: 1.6rem;
         font-weight: bold;
@@ -84,7 +79,7 @@
         font-size: 1.2rem;
         line-height: 1.4rem;
     }
-    
+
     .escopo-flex-principal {
         display: flex;
         flex-direction: column;
@@ -101,13 +96,71 @@
     .lista-menu {
         display: none;
     }
+
+    .lista-menu {
+        justify-content: center;
+        align-items: center;
+    }
 }
 
 @media (min-width: 960px) {
     .burguer-menu {
         display: none;
     }
+
     .lista-menu {
         display: flex;
+    }
+
+    .flex-navbar {
+        justify-content: space-between;
+        padding: 70px 55px;
+    }
+
+    .titulo-pagina {
+        font-size: 2rem;
+        font-weight: bolder;
+    }
+
+    .lista-menu li {
+        margin-left: 1.5rem;
+        font-size: 1.5rem;
+        cursor: pointer;
+    }
+
+    .flex-imagem {
+        flex-direction: row-reverse;
+    }
+
+    .imagem-reuniao {
+        width: 60%;
+    }
+
+    .escopo-flex-principal {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: left;
+        width: 475px;
+        
+        position: absolute;
+        left: 0;
+        margin-left: 7rem;
+    }
+
+    .titulo-principal {
+        font-size: 4rem;
+    }
+
+    .texto-secundario {
+        margin-top: 3rem;
+        font-size: 2rem;
+    }
+
+    .button {
+        margin-top: 3rem;
+        width: 300px;
+        height: 75px;
+        font-size: 1.8rem;
     }
 }

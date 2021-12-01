@@ -15,13 +15,13 @@ function LandPage() {
                     <li>Contact</li>
                 </ul>
             </nav>
-            <div className="escopo-flex flex-center">
+            <div className="escopo-flex flex-imagem">
                 <img src={imagenReuniao} alt="Reunião mostrando gráficos" className="imagem-reuniao" />
-            </div>
-            <div className="escopo-flex-principal">
-                <h1 className="secondary-color titulo-principal">Create amazing graphics</h1>
-                <p className="secondary-color texto-secundario">Colaborate and create beautiful graphics with your team</p>
-                <button className="button button-primary mt-2rem" onClick={()=>console.log('as')}>Start now</button>
+                <div className="escopo-flex-principal">
+                    <h1 className="secondary-color titulo-principal">Create amazing graphics</h1>
+                    <p className="secondary-color texto-secundario">Colaborate and create beautiful graphics with your team</p>
+                    <button className="button button-primary mt-2rem" onClick={()=>console.log('as')}>Start now</button>
+                </div>
             </div>
         </>
     )
